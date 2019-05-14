@@ -6,3 +6,7 @@
 	path = SubModule1
 	url = https://github.com/Sanjay3761/UserRepos1.git
 	branch = master
+[submodule "Sanjay"]
+	path = Sanjay
+	url = https://github.com/Sanjay3761/MainRepos.git
+	branch = master
