@@ -1,0 +1,4 @@
+[submodule "SubModule"]
+	path = SubModule
+	url = https://github.com/Sanjay3761/UserRepos1.git
+	branch = master
